@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bmes-final-project/static/css/main.6dfe6287.css",
-    "main.js": "/bmes-final-project/static/js/main.548e27ef.js",
+    "main.css": "/bmes-final-project/static/css/main.4bef0756.css",
+    "main.js": "/bmes-final-project/static/js/main.38aeb2b6.js",
     "static/media/demo.gif": "/bmes-final-project/static/media/demo.92fafb1f7f922fad751b.gif",
     "static/media/bmes-logo.png": "/bmes-final-project/static/media/bmes-logo.187a1c6f595700cca100.png",
     "index.html": "/bmes-final-project/index.html",
-    "main.6dfe6287.css.map": "/bmes-final-project/static/css/main.6dfe6287.css.map",
-    "main.548e27ef.js.map": "/bmes-final-project/static/js/main.548e27ef.js.map"
+    "main.4bef0756.css.map": "/bmes-final-project/static/css/main.4bef0756.css.map",
+    "main.38aeb2b6.js.map": "/bmes-final-project/static/js/main.38aeb2b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dfe6287.css",
-    "static/js/main.548e27ef.js"
+    "static/css/main.4bef0756.css",
+    "static/js/main.38aeb2b6.js"
   ]
 }
