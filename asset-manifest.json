@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/T.14-Senior-Design.git/static/css/main.4bef0756.css",
-    "main.js": "/T.14-Senior-Design.git/static/js/main.258cc9d4.js",
-    "static/media/demo.gif": "/T.14-Senior-Design.git/static/media/demo.92fafb1f7f922fad751b.gif",
-    "static/media/bmes-logo.png": "/T.14-Senior-Design.git/static/media/bmes-logo.187a1c6f595700cca100.png",
-    "index.html": "/T.14-Senior-Design.git/index.html",
-    "main.4bef0756.css.map": "/T.14-Senior-Design.git/static/css/main.4bef0756.css.map",
-    "main.258cc9d4.js.map": "/T.14-Senior-Design.git/static/js/main.258cc9d4.js.map"
+    "main.css": "/T.14-Senior-Design/static/css/main.4bef0756.css",
+    "main.js": "/T.14-Senior-Design/static/js/main.ba4a42ff.js",
+    "static/media/demo.gif": "/T.14-Senior-Design/static/media/demo.92fafb1f7f922fad751b.gif",
+    "static/media/bmes-logo.png": "/T.14-Senior-Design/static/media/bmes-logo.187a1c6f595700cca100.png",
+    "index.html": "/T.14-Senior-Design/index.html",
+    "main.4bef0756.css.map": "/T.14-Senior-Design/static/css/main.4bef0756.css.map",
+    "main.ba4a42ff.js.map": "/T.14-Senior-Design/static/js/main.ba4a42ff.js.map"
   },
   "entrypoints": [
     "static/css/main.4bef0756.css",
-    "static/js/main.258cc9d4.js"
+    "static/js/main.ba4a42ff.js"
   ]
 }
